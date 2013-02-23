@@ -25,9 +25,11 @@ Topics:
 
 * Fitting data
   * Linear data fitting
+  
     * Matrix inversion
     * Outliers: sigma-clipping, Theil-Sen estimator
   * Nonlinear data fitting
+
     * Fit methods (Simplex, Levenberg-Marquardt, etc)
     * Fit statistic chi**2 (least squares), likelihood (Cash)
   * Understanding the errors on the fitted parameters
