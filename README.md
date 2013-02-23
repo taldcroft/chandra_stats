@@ -15,24 +15,25 @@ distribution function).
 Topics:
 
 * Refresher on classical statistics
-
   * Standard deviation and 1-sigma error bars
   * Estimating likelihood of an event given errors
 
 * Real world: non-gaussian errors
-
   * Visualizing distributions: histograms
   * Comparing to gaussian distribution
   * Using percentiles to estimate event likeliood
 
 * Fitting data
-
   * Linear data fitting
-  * Nonlinear data fitting
+  * Nonlinear data fitting: using chi**2 statistic (least squares)
   * Understanding the errors on the fitted parameters
 
 * Using model fits to make predictions
-
   * The problem of correlated errors
   * The solution of using simulations
   * Example: predicting when some MSID could exceed a limit
+
+* Maximum likelihood estimation and fitting
+  * Why do we need this, why not just chi**2
+  * Example: Fitting ACA acquisition statistics
+
